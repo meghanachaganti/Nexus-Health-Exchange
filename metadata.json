@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Health Exchange",
+  "description": "A unified health record exchange system that consolidates fragmented patient data and provides AI-powered health insights, diet plans, and medicinal guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
